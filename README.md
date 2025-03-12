@@ -1,1 +1,1 @@
-![image]('/public/image.png')
+![image]('/image.png')
